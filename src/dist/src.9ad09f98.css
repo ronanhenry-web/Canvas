@@ -1,0 +1,49 @@
+html, body {
+  background-color: #4e4f50;
+  display: flex;
+  width: 100%;
+}
+
+canvas {
+  border: 5px solid #746c70;
+  background-color: #ffffff;
+}
+
+p {
+  font: 1.2em helvetica;
+  font-weight: bold;
+  color: #e2ded0;
+  text-align: center;
+}
+
+.canvasBlock {
+  margin: auto;
+}
+
+#buttons {
+  background-color: #e2ded0;
+  display: block;
+  padding: 5px 5px 0px 5px;
+  width: 100px;
+}
+
+button {
+  background-color: #746c70;
+  border: 0px;
+  color: #e2ded0;
+  font-family: helvetica;
+  font-weight: bold;
+  
+  height: 40px;
+  margin-bottom: 5px;
+  width: 100%;
+}
+
+button:focus {
+  border: 0px;
+  background-color: #647c90;
+}
+
+
+
+/*# sourceMappingURL=/src.9ad09f98.css.map */
