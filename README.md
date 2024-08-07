@@ -1,6 +1,6 @@
 # Projet Canvas
 
-Qui a pour objectif découvrir TypeScript et faire des formes géométriques
+Qui a pour objectif découvrir TypeScript et faire des dessins
 
 ## Démarrer
 
