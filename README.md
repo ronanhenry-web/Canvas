@@ -8,6 +8,7 @@ Le projet a été créé sous VSCode, pour le démarrer suivre les étapes suiva
 
 - Cloner le projet
 - Lancé sous Wamp ou compiler avec node.js
+- Avec WampServer mettre dans dossier www puis lancer le jeu sous le localhost de Wamp
 
 ## Sources & Outils
 
