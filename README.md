@@ -1,16 +1,16 @@
-# Projet Canvas
+# Canvas Project
 
-Qui a pour objectif découvrir TypeScript et faire des dessins
+Aimed at discovering TypeScript and creating drawings
 
-## Démarrer
+## Getting Started
 
-Le projet a été créé sous VSCode, pour le démarrer suivre les étapes suivantes.
+The project was created using VSCode. To get it running, follow these steps :
 
-- Cloner le projet
-- Lancé sous Wamp ou compiler avec node.js
-- Avec WampServer mettre dans dossier www puis lancer le jeu sous le localhost de Wamp
+- Clone the project
+- Run it under Wamp or compile it with Node.js
+- For WampServer, place the project in the www folder and run it on localhost via Wamp
 
-## Sources & Outils
+## Sources & Tools
 
 <a href="https://developer.mozilla.org/fr/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/> </a>
 
